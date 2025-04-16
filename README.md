@@ -9,3 +9,4 @@ Aquí iré subiendo contenido que vaya sacando de diversos tutoriales de aficion
 - Sitio oficial del motor de juegos [GodotEngine.org](https://godotengine.org/)
 - Repositorio de los proyectos demo oficiales [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects)
 - Video de introducción al desarrollo de un videojuego desde cero - [Your First 2D GAME From Zero in Godot 4 **Vampire Survivor Style**](https://www.youtube.com/watch?v=GwCiGixlqiU)
+- How to make a Video Game - Godot Beginner Tutorial - Brackeys [youtu.be/watch?v=LOhfqjmasi0](https://www.youtube.com/watch?v=LOhfqjmasi0)
